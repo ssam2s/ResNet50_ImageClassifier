@@ -13,10 +13,7 @@
 - Batch Normalization
 - Weight Decay
 
-Best Fit in 3 Epochs
-
-Optimizer : Adam
-Overfitting Preventor : Batch Normalization, Weight Decay
-### Train Acc : 98.72%
-### Valid Acc : 93.20%
-### Test Acc  : 95.0%,
+### Best Fit in 3 Epochs
+- Train Acc : 98.72%
+- Valid Acc : 93.20%
+- Test Acc  : 95.0%
