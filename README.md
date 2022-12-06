@@ -1,7 +1,7 @@
 ## ImageNet Pre-Trained ResNet50
 ### Convolution Neural Network
 
-### Layer Freezing[0 : 60] for Transfer Learning
+### Layer Freezing 60 for Transfer Learning
 
 ### Dataset
 - STL-10 ( 10 Classes ) with Augmentations
